@@ -51,6 +51,6 @@
 - *Members*: wonwoo Jang
 - *Technologies*: using **ML Tree models**, like lightGBM, catboost, xgb
 - *Achievements*:
-  - 
+  - You can find it in [MCTS-kaggle challenge](https://github.com/wonwoo-Jang/kaggle_mcts_challenge)
 
 ---
