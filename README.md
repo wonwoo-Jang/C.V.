@@ -9,7 +9,9 @@
 
 ## 📅 Timeline
 
-- **2022.3. - 2023.9.**: Served in the Army, in Gyeryongdae   
+- **2024.12. - 2025.2.**: Worked on the RIDEFLUX as PERCEPTIOM Unit R&D Engineer, a autonomous driving company
+
+- **2022.3. - 2023.9.**: Served in the Army, in Gyeryongdae
 
 - **2020 -**: Attending **Seoul National University**, majoring in Electrical & Computer Engineering
 
@@ -21,7 +23,7 @@
 - **University**: Seoul National University
 - **Department**: Electrical & Computer Engineering
 - **Status**: Undergraduate Student(2020.3. ~)
-- **GPA**: 3.66/4.3
+- **GPA**: 3.65/4.3
 
 ---
 
@@ -31,10 +33,18 @@
 - **Virtual Tryon - lab intern**    
   *Duration*: [23.10. - 23.12., 24.3. - 24.7., total: 8 months]
   - Studying for computer vision models, train / inference stage with pytorch code.
-  - Understanding for virtual tryon models
-  - Experience for processing data which have huge size(ex. VITON-HD, DressCode, etc)
+  - Understanding for virtual tryon models.
+  - Deal G.T. labels with opensource labeling tools(Thanks to LABELME).
+  - Experience for processing data which have huge size(ex. VITON-HD, DressCode, etc).
   - Contributed to models for human parsing (segmentation) which are used to preprocess in viton & improvement of the performance of the SOTA model through the MIMO (multi-input multi-output) method.
 
+- **Real Time Map Detection - company intern**    
+  *Duration*: [24.12.23 - 25.2.21, total: 9 weeks]
+  - Studying for basic map detection papers.
+  - Understanding for overall process of the PERCEPTION in autonomous driving A.I.
+  - Experience for processing data which have huge size(ex. NuScenes, Company own datas, etc).
+  - Contributed to models for Map detection & Make hole pipeline with Lidar and Camera.
+  - Ablation study with Multi-task learning(R.V. segmentation, object detection, map detection).
 ---
 
 ## 🚀 Projects
